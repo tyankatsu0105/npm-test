@@ -1,4 +1,4 @@
-const main = () => {
+function main() {
   console.log("Hello. I'm tyankatsu :)");
 }
 
