@@ -1,0 +1,1 @@
+https://www.npmjs.com/package/@tyankatsu0105/npm-test
